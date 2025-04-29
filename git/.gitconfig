@@ -1,0 +1,11 @@
+[user]
+	email = tszw.tam@gmail.com
+	name = dtszwai
+[core]
+	autocrlf = input
+	ignorecase = false
+	excludesfile = ~/.gitignore
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
